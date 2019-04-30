@@ -1,6 +1,6 @@
 # FlarLoader
 
-![License](https://img.shields.io/badge/license-Unlicense-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/reflar/flarloader.svg)](https://packagist.org/packages/reflar/flarloader)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/reflar/flarloader.svg)](https://packagist.org/packages/reflar/flarloader)
 
 A [Flarum](http://flarum.org) extension. Customizes the default Flarum loader
 
