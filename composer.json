@@ -1,0 +1,37 @@
+{
+  "name": "reflar/flarloader",
+  "description": "Customize the default Flarum loader",
+  "keywords": [
+    "flarum"
+  ],
+  "type": "flarum-extension",
+  "license": "Unlicense",
+  "require": {
+    "flarum/core": "^0.1.0-beta.8"
+  },
+  "authors": [
+    {
+      "name": "Joel (Frink)",
+      "email": "frinkfromthedrink@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Reflar\\FlarLoader\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "FlarLoader",
+      "icon": {
+        "name": "",
+        "backgroundColor": "",
+        "color": ""
+      }
+    },
+    "flagrow": {
+      "discuss": ""
+    }
+  }
+}
